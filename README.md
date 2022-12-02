@@ -1,3 +1,28 @@
+# **The portal must support the capabilities of 3 types of users:**
+**General description of the project**
+All users of the system are divided into three groups:
+> Guest
+> Authorized User
+> Administrator
+
+Guest Features
+
+> Login to your personal account by login and password
+> Registration
+> Viewing the main page
+
+Authorized User Capabilities
+
+> Registration, authorization, exit;
+> Creating an application for solving a problem;
+> View your applications;
+> Deleting your application.
+
+Admin Sections
+
+> Changing the status of the application to "Resolved" or "Rejected".
+> Managing categories of applications (for example, "road repairs", "garbage collection", etc.)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
