@@ -1,6 +1,6 @@
 # **How to run laravel project?**
 ```composer update```
-```add .env``` [(LINK)](https://raw.githubusercontent.com/platformsh-templates/laravel/master/.env.example)
+```rename .env.example to .env```
 ```php artisan key:generate```
 ```php artisan migrate```
 ```php artisan serve```
